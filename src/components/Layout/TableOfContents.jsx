@@ -41,13 +41,10 @@ const ChapterList = ({ chapters, entries, title, level = 0 }) => (
         <FaChevronDown className={'chevron'} id={`chevron-${title}`} />
       </ChapterListItem>
     )}
-    <ChapterListItem id={`list-${title}`} style={{ display: 'none' }}>{entries && <Links entries={entries} />}</ChapterListItem>
-    <ChapterListItem id={title}>
-      {chapters &&
-        chapters.map((chapter, index) => (
-          <ChapterList {...chapter} level={level + 1} key={`${index}`} />
-        ))}
-    </ChapterListItem>
+    <ChapterListItem id={`list-${title}`} style={{ display: 'none' }}>{entries && <Links entries={entries} />} {chapters &&
+      chapters.map((chapter, index) => (
+        <ChapterList {...chapter} level={level + 1} key={`${index}`} />
+      ))}</ChapterListItem>    
   </StyledChapterList>
 )
 
@@ -121,9 +118,9 @@ const ChapterTitle = styled.h5`
   font-weight: ${({ level }) => {
     switch (level % 3) {
       case 1:
-        return '600'
-      case 2:
         return '400'
+      case 2:
+        return '300'
       default:
         return '200'
     }
@@ -131,11 +128,11 @@ const ChapterTitle = styled.h5`
   font-size: ${({ level }) => {
     switch (level % 3) {
       case 1:
-        return '2.2rem'
+        return '2.0rem'
       case 2:
         return '1.8rem'
       default:
-        return '2.8rem'
+        return '2.2rem'
     }
   }};
   color: ${({ level, theme }) => {
