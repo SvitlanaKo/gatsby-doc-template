@@ -3,7 +3,7 @@ module.exports = {
   lessonsDir: "lessons", // The name of the directory that contains lessons or docs.
   siteTitle: "Quix", // Site title.
   siteTitleAlt: "Quix for interactive multi-source data analytics.", // Alternative site title for SEO.
-  siteLogo: "/logos/wix_logo.png", // Logo used for SEO and manifest.
+  siteLogo: "https://svitlanako.github.io/gatsby-doc-template/logos/wix_logo.png", // Logo used for SEO and manifest.
   siteUrl: "https://quix.com", // Domain of your website without pathPrefix.
   pathPrefix: "/gatsby-doc-template", // Prefixes all links. For cases when deployed to example.github.io/gatsby-advanced-starter/.
   siteDescription: "Design and embed interactive multi-source data analytics.", // Website description used for RSS feeds/meta description tag.
@@ -15,7 +15,7 @@ module.exports = {
   userName: "User", // Username to display in the author segment.
   userTwitter: "wix", // Optionally renders "Follow Me" in the UserInfo segment.
   userLocation: "Israel, TV", // User location to display in the author segment.
-  userAvatar: "/logos/wix.png", // User avatar to display in the author segment.
+  userAvatar: "https://svitlanako.github.io/gatsby-doc-template/logos/wix.png", // User avatar to display in the author segment.
   userDescription: "Wix Ltd.", // User description to display in the author segment.
   // Links to social profiles/projects you want to display in the author segment/navigation bar.
   userLinks: [
@@ -49,5 +49,5 @@ module.exports = {
   themeColor: "#000000", // Used for setting manifest and progress theme colors.
   backgroundColor: "#EB5E51", // Used for setting manifest background color.
   // TODO: Move this literally anywhere better.
-  toCChapters: ["", "Chapter 1", "Chapter 2"] // Used to generate the Table Of Contents. Index 0 should be blank.
+  toCChapters: [""] // Used to generate the Table Of Contents. Index 0 should be blank.
 };
