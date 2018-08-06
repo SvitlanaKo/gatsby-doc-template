@@ -3,6 +3,7 @@
   "description": "GatsbyJS starter designed with documentation and tutorial websites in mind.",
   "version": "1.0.1",
   "author": "Eric Windmill <eric@ericwindmill.com>",
+  "homepage": "https://svitlanako.github.io/gatsby-doc-template",
   "dependencies": {
     "babel-plugin-lodash": "^3.2.11",
     "gatsby": "^1.9.231",
