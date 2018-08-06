@@ -3,25 +3,101 @@
   "chapters": [
     {
       "title": "Docs",
+      "entries": [
+        {
+          "entry": "./main_concepts.md"
+        }
+      ],
       "chapters": [
         {
-          "title": "1.1 Subchapter",
+          "title": "Get Started",
           "entries": [
             {
-              "entry": "./lesson_one.md"
-            }
-          ],
-          "chapters": [
+              "entry": "./discover/getting_started.md"
+            },
             {
-              "title": "1.1.1 Sub-subchapter",
-              "entries": [
-                {
-                  "entry": "./lesson_two.md"
-                },
-                {
-                  "entry": "./lesson_three.md"
-                }
-              ]
+              "entry": "./discover/getting_started_step1.1.md"
+            },
+            {
+              "entry": "./discover/getting_started_step1.2.md"
+            },
+            {
+              "entry": "./discover/getting_started_step1.3.md"
+            },
+            {
+              "entry": "./discover/getting_started_step1.4.md"
+            },
+            {
+              "entry": "./discover/getting_started_step1.5.md"
+            }
+          ]
+        },
+        {
+          "title": "Install",
+          "entries": [
+            {
+              "entry": "./discover/installation.md"
+            },
+            {
+              "entry": "./discover/installation_step1.1.md"
+            },
+            {
+              "entry": "./discover/installation_step1.2.md"
+            },
+            {
+              "entry": "./discover/installation_step1.3.md"
+            },
+            {
+              "entry": "./discover/installation_step1.4.md"
+            },
+            {
+              "entry": "./discover/installation_step1.5.md"
+            }
+          ]
+        },
+        {
+          "title": "Configure",
+          "entries": [
+            {
+              "entry": "./discover/configuration.md"
+            },
+            {
+              "entry": "./discover/configuration_step1.1.md"
+            },
+            {
+              "entry": "./discover/configuration_step1.2.md"
+            },
+            {
+              "entry": "./discover/configuration_step1.3.md"
+            },
+            {
+              "entry": "./discover/configuration_step1.4.md"
+            },
+            {
+              "entry": "./discover/configuration_step1.5.md"
+            }
+          ]
+        },
+        {
+          "title": " Deploy",
+          "entries": [
+            {
+              "entry": "./discover/deployment.md"
+            },
+            {
+              "entry": "./discover/deployment_step1.1.md"
+            },
+            {
+              "entry": "./discover/deployment_step1.2.md"
+            },
+            {
+              "entry": "./discover/deployment_step1.3.md"
+            },
+            {
+              "entry": "./discover/deployment_step1.4.md"
+            },
+            {
+              "entry": "./discover/deployment_step1.5.md"
             }
           ]
         },
@@ -49,7 +125,7 @@
       ]
     },
     {
-      "title": "Devlopment Portal",
+      "title": "Development Portal",
       "entries": [
         {
           "entry": "./lesson_six.md"
