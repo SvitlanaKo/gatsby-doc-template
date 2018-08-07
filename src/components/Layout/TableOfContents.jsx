@@ -118,31 +118,31 @@ const ChapterTitle = styled.h5`
   font-weight: ${({ level }) => {
     switch (level % 3) {
       case 1:
-        return '400'
-      case 2:
         return '300'
-      default:
+      case 2:
         return '200'
+      default:
+        return '400'
     }
   }};
   font-size: ${({ level }) => {
     switch (level % 3) {
       case 1:
-        return '2.0rem'
+        return '1.8rem'
       case 2:
         return '1.8rem'
       default:
-        return '2.2rem'
+        return '1.8rem'
     }
   }};
   color: ${({ level, theme }) => {
     switch (level % 3) {
       case 1:
-        return 'black'
+        return 'darkgrey'
       case 2:
-        return theme.accent
+        return 'lightgrey'
       default:
-        return theme.brand
+        return 'grey'
     }
   }};
 `

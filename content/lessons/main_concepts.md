@@ -15,21 +15,21 @@ Q: What information is to be included?
 
 2. Depending on the type of the software you are delivering, the information structure will change. Consider these types of the deliverables and think of the info you'd like to cover:
 
-Haste
-Koboshi
-React Native Navigation
-Detox
-React Native Camera Kit
-React native UI Lib
-Stylable
-Raven Testkit
-React Module Container
-Mastermind
-Webdriver Manager
-GLEAN‎
-security library
-Quix
-Resolve unpkg
+* Haste
+* Koboshi
+* React Native Navigation
+* Detox
+* React Native Camera Kit
+* React native UI Lib
+* Stylable
+* Raven Testkit
+* React Module Container
+* Mastermind
+* Webdriver Manager
+* GLEAN‎
+* security library
+* Quix
+* Resolve unpkg
 
 
    * extension to the existing s/w

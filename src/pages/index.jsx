@@ -22,6 +22,7 @@ class Index extends React.Component {
             <Hero>
               <h1>{config.siteTitle}</h1>
               <h4>{config.siteDescription}</h4>
+              
               <InverseCtaButton to={'/lesson-one'}>Get Started</InverseCtaButton>
               <InverseCtaButton to={'/lesson-one'}>Take a Tutorial</InverseCtaButton>
               <InverseCtaButton to={'/lesson-one'}>Try In a SandBox</InverseCtaButton>
