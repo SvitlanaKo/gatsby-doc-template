@@ -30,7 +30,7 @@ export default class LessonTemplate extends React.Component {
           </HeaderContainer>
           <ToCContainer>
             <TableOfContents
-              chapters={this.props.data.tableOfContents.chapters}
+              chapters={this.props.data.tableOfContents.chapters} level="1"
             />
           </ToCContainer>
           <BodyContainer>
