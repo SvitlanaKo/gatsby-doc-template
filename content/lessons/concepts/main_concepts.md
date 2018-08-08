@@ -1,3 +1,6 @@
 ---
-"title": "Understanding Quix"
+id: "quix"
+title: "Understanding Quix"
 ---
+
+test

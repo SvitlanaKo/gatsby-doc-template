@@ -1,7 +1,6 @@
 ---
-id: getting_started
-title: What is Quix?
-sidebar_label: What is Quix?
+id: "getting_started"
+title: "What is Quix?"
 ---
 
 Quix is [in one-two sentences, tell about the core benefits and purpose]

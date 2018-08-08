@@ -30,7 +30,7 @@ export default class LessonTemplate extends React.Component {
           </HeaderContainer>
           <ToCContainer>
             <TableOfContents
-              chapters={this.props.data.tableOfContents.chapters} level="1"
+              chapters={this.props.data.tableOfContents.chapters}
             />
           </ToCContainer>
           <BodyContainer>
@@ -141,22 +141,6 @@ export const pageQuery = graphql`
                 }
                 frontmatter {
                   title
-                }
-              }
-            }
-          }
-          chapters {
-            title
-            entries {
-              entry {
-                id
-                childMarkdownRemark {
-                  fields {
-                    slug
-                  }
-                  frontmatter {
-                    title
-                  }
                 }
               }
             }

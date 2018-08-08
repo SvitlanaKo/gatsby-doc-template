@@ -1,4 +1,5 @@
 ---
+id: "l6"
 title: "Lesson Six"
 ---
 

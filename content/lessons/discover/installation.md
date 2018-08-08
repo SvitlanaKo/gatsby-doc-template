@@ -1,6 +1,6 @@
 ---
-id: install
-title: Installation and Deployment
+id: "install"
+title: "Installation and Deployment"
 ---
 
 This is a link to [another document.](doc3.md)  
