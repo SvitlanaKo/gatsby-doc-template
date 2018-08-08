@@ -47,29 +47,21 @@ class Navigation extends React.Component {
 </Link>
         </span>        
         <section>         
-          <Link className="nav-link" to="/lesson-one">
+          <Link className="nav-link" to="/understanding-quix">
             {' '}
-            DOCS{' '}
+            Docs{' '}
           </Link>
-          <Link className="nav-link" to="/about">
+          <Link className="nav-link" to="/tutorials">
             {' '}
-            ABOUT{' '}
+            Tutorials{' '}
           </Link>
-          <Link className="nav-link" to="/lesson-one">
+          <Link className="nav-link" to="/dev">
             {' '}
-            DOCS{' '}
+            Dev Portal{' '}
           </Link>
-          <Link className="nav-link" to="/about">
+          <Link className="nav-link" to="/community">
             {' '}
-            ABOUT{' '}
-          </Link>
-          <Link className="nav-link" to="/lesson-one">
-            {' '}
-            DOCS{' '}
-          </Link>
-          <Link className="nav-link" to="/about">
-            {' '}
-            ABOUT{' '}
+            Community{' '}
           </Link>
         </section>
         <span>

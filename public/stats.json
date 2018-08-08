@@ -1,0 +1,256 @@
+{
+  "assetsByChunkName": {
+    "path---concept-4": [
+      "path---concept-4-a5ca7cb97da11ff9e285.js",
+      "path---concept-4-a5ca7cb97da11ff9e285.js.map"
+    ],
+    "path---concept-4-test": [
+      "path---concept-4-test-14c6ca9dba1f1d8c25bf.js",
+      "path---concept-4-test-14c6ca9dba1f1d8c25bf.js.map"
+    ],
+    "path---concept-3-test": [
+      "path---concept-3-test-0f1a47575d5f5523a2ad.js",
+      "path---concept-3-test-0f1a47575d5f5523a2ad.js.map"
+    ],
+    "path---concept-1": [
+      "path---concept-1-500925fba5673070d7b3.js",
+      "path---concept-1-500925fba5673070d7b3.js.map"
+    ],
+    "path---ci-configuration": [
+      "path---ci-configuration-7e71b193b3f41a42655a.js",
+      "path---ci-configuration-7e71b193b3f41a42655a.js.map"
+    ],
+    "path---concept-5-test": [
+      "path---concept-5-test-0a8025249dd7c9cc3eed.js",
+      "path---concept-5-test-0a8025249dd7c9cc3eed.js.map"
+    ],
+    "path---aws-deployment": [
+      "path---aws-deployment-2bceedb3ca5d56c3fa6d.js",
+      "path---aws-deployment-2bceedb3ca5d56c3fa6d.js.map"
+    ],
+    "path---step-4-of-post-install-configuration": [
+      "path---step-4-of-post-install-configuration-bc4a3da277bc352cb309.js",
+      "path---step-4-of-post-install-configuration-bc4a3da277bc352cb309.js.map"
+    ],
+    "path---understanding-quix": [
+      "path---understanding-quix-90f3f4fed68c7bb2818b.js",
+      "path---understanding-quix-90f3f4fed68c7bb2818b.js.map"
+    ],
+    "path---dockerized-deployment": [
+      "path---dockerized-deployment-aac8ec39977873226ca0.js",
+      "path---dockerized-deployment-aac8ec39977873226ca0.js.map"
+    ],
+    "path---q-and-a-how-to-document-an-open-source-software": [
+      "path---q-and-a-how-to-document-an-open-source-software-74e8c061d5deace0fe97.js",
+      "path---q-and-a-how-to-document-an-open-source-software-74e8c061d5deace0fe97.js.map"
+    ],
+    "path---step-2-of-post-install-configuration": [
+      "path---step-2-of-post-install-configuration-85f394fe2a65e6828538.js",
+      "path---step-2-of-post-install-configuration-85f394fe2a65e6828538.js.map"
+    ],
+    "path---": [
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
+    ],
+    "path---step-3-of-post-install-configuration": [
+      "path---step-3-of-post-install-configuration-651363042e0b3ead9c72.js",
+      "path---step-3-of-post-install-configuration-651363042e0b3ead9c72.js.map"
+    ],
+    "path---google-cloud-deployment": [
+      "path---google-cloud-deployment-047effc896862d717ad4.js",
+      "path---google-cloud-deployment-047effc896862d717ad4.js.map"
+    ],
+    "path---lesson-one": [
+      "path---lesson-one-2ca5107bbddd3d062d2c.js",
+      "path---lesson-one-2ca5107bbddd3d062d2c.js.map"
+    ],
+    "path---lesson-four": [
+      "path---lesson-four-78d6f89517aba1cdca94.js",
+      "path---lesson-four-78d6f89517aba1cdca94.js.map"
+    ],
+    "component---src-layouts-index-jsx": [
+      "component---src-layouts-index-jsx-d311b0418c4ca5652c9a.js",
+      "component---src-layouts-index-jsx-d311b0418c4ca5652c9a.js.map"
+    ],
+    "path---step-5-of-installation-process": [
+      "path---step-5-of-installation-process-806573f87f5eb46eecff.js",
+      "path---step-5-of-installation-process-806573f87f5eb46eecff.js.map"
+    ],
+    "path---post-install-configuration": [
+      "path---post-install-configuration-c9c4136dc91fd6954d6b.js",
+      "path---post-install-configuration-c9c4136dc91fd6954d6b.js.map"
+    ],
+    "path---step-4-of-installation-process": [
+      "path---step-4-of-installation-process-f7178621fb4f096e3a40.js",
+      "path---step-4-of-installation-process-f7178621fb4f096e3a40.js.map"
+    ],
+    "path---concept-1-test": [
+      "path---concept-1-test-08981f664f4cbe5d5003.js",
+      "path---concept-1-test-08981f664f4cbe5d5003.js.map"
+    ],
+    "path---categories-tech": [
+      "path---categories-tech-b53b68288f3e8b92d546.js",
+      "path---categories-tech-b53b68288f3e8b92d546.js.map"
+    ],
+    "path---for-product-management": [
+      "path---for-product-management-4ceb7452b543fdd60c7f.js",
+      "path---for-product-management-4ceb7452b543fdd60c7f.js.map"
+    ],
+    "path---know-your-tools": [
+      "path---know-your-tools-5b490d8429610a97e9af.js",
+      "path---know-your-tools-5b490d8429610a97e9af.js.map"
+    ],
+    "path---lesson-five": [
+      "path---lesson-five-c94072eae98875503fda.js",
+      "path---lesson-five-c94072eae98875503fda.js.map"
+    ],
+    "component---node-modules-gatsby-plugin-offline-app-shell-js": [
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
+    ],
+    "path---step-3-of-installation-process": [
+      "path---step-3-of-installation-process-2d2be172a24fe9c4dfc0.js",
+      "path---step-3-of-installation-process-2d2be172a24fe9c4dfc0.js.map"
+    ],
+    "component---src-templates-lesson-jsx": [
+      "component---src-templates-lesson-jsx-62a849d9569b047e58aa.js",
+      "component---src-templates-lesson-jsx-62a849d9569b047e58aa.js.map"
+    ],
+    "path---create-graphs-and-interactive-reports": [
+      "path---create-graphs-and-interactive-reports-43b12f366c4375e722d4.js",
+      "path---create-graphs-and-interactive-reports-43b12f366c4375e722d4.js.map"
+    ],
+    "path---for-business-analysts": [
+      "path---for-business-analysts-e0b7bae3f2f74e9b016d.js",
+      "path---for-business-analysts-e0b7bae3f2f74e9b016d.js.map"
+    ],
+    "path---lesson-two": [
+      "path---lesson-two-fbb70dd2b9b4349e3e57.js",
+      "path---lesson-two-fbb70dd2b9b4349e3e57.js.map"
+    ],
+    "path---draft-your-report": [
+      "path---draft-your-report-785cc4b0429c2ad95d82.js",
+      "path---draft-your-report-785cc4b0429c2ad95d82.js.map"
+    ],
+    "path---use-the-library-as-a-package-in-your-app": [
+      "path---use-the-library-as-a-package-in-your-app-fc879df03caee26535c2.js",
+      "path---use-the-library-as-a-package-in-your-app-fc879df03caee26535c2.js.map"
+    ],
+    "component---src-templates-category-jsx": [
+      "component---src-templates-category-jsx-79f394448ef5d1ff97f1.js",
+      "component---src-templates-category-jsx-79f394448ef5d1ff97f1.js.map"
+    ],
+    "path---index": [
+      "path---index-04d0f88dfd95c012c35d.js",
+      "path---index-04d0f88dfd95c012c35d.js.map"
+    ],
+    "path---troubleshooting-deployment": [
+      "path---troubleshooting-deployment-df31fd8e36c0203e9823.js",
+      "path---troubleshooting-deployment-df31fd8e36c0203e9823.js.map"
+    ],
+    "component---src-pages-about-jsx": [
+      "component---src-pages-about-jsx-66a9330da58ef68ee5c3.js",
+      "component---src-pages-about-jsx-66a9330da58ef68ee5c3.js.map"
+    ],
+    "path---step-1-of-post-install-configuration": [
+      "path---step-1-of-post-install-configuration-124584a856c1a738abf9.js",
+      "path---step-1-of-post-install-configuration-124584a856c1a738abf9.js.map"
+    ],
+    "path---concept-2-test": [
+      "path---concept-2-test-96699a27c92e561f54ae.js",
+      "path---concept-2-test-96699a27c92e561f54ae.js.map"
+    ],
+    "path---step-1-of-installation-process": [
+      "path---step-1-of-installation-process-ec643bcbdb4eec40ee9e.js",
+      "path---step-1-of-installation-process-ec643bcbdb4eec40ee9e.js.map"
+    ],
+    "path---post-one": [
+      "path---post-one-f0e4a357bc589246bd89.js",
+      "path---post-one-f0e4a357bc589246bd89.js.map"
+    ],
+    "path---concept-2": [
+      "path---concept-2-ed4731c2fb41dbba45db.js",
+      "path---concept-2-ed4731c2fb41dbba45db.js.map"
+    ],
+    "path---lesson-six": [
+      "path---lesson-six-0c1abb7e4e2e5e5500fb.js",
+      "path---lesson-six-0c1abb7e4e2e5e5500fb.js.map"
+    ],
+    "path---installation-and-deployment": [
+      "path---installation-and-deployment-c6e78ba36ea9373edfe6.js",
+      "path---installation-and-deployment-c6e78ba36ea9373edfe6.js.map"
+    ],
+    "path---step-2-of-installation-process": [
+      "path---step-2-of-installation-process-c7a132526b33ac8bf162.js",
+      "path---step-2-of-installation-process-c7a132526b33ac8bf162.js.map"
+    ],
+    "commons": [
+      "commons-eba8ca87cbb27037a1fb.js",
+      "build-js-styles.css",
+      "commons-eba8ca87cbb27037a1fb.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---lesson-three": [
+      "path---lesson-three-82b453f8d659112f339f.js",
+      "path---lesson-three-82b453f8d659112f339f.js.map"
+    ],
+    "path---for-customer-support": [
+      "path---for-customer-support-790a1d722bc45b5ac434.js",
+      "path---for-customer-support-790a1d722bc45b5ac434.js.map"
+    ],
+    "path---for-developers": [
+      "path---for-developers-e08a542e963968fe969a.js",
+      "path---for-developers-e08a542e963968fe969a.js.map"
+    ],
+    "path---concept-3": [
+      "path---concept-3-8c2267803d33ee908859.js",
+      "path---concept-3-8c2267803d33ee908859.js.map"
+    ],
+    "path---offline-plugin-app-shell-fallback": [
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---concept-5": [
+      "path---concept-5-d31223dacdbd6fb4ca05.js",
+      "path---concept-5-d31223dacdbd6fb4ca05.js.map"
+    ],
+    "component---src-templates-post-jsx": [
+      "component---src-templates-post-jsx-ce5c6db3edaac04c4902.js",
+      "component---src-templates-post-jsx-ce5c6db3edaac04c4902.js.map"
+    ],
+    "component---src-pages-index-jsx": [
+      "component---src-pages-index-jsx-11bd832c53a82631bebe.js",
+      "component---src-pages-index-jsx-11bd832c53a82631bebe.js.map"
+    ],
+    "path---for-quality-assurance": [
+      "path---for-quality-assurance-6571f63e5630d402d0a9.js",
+      "path---for-quality-assurance-6571f63e5630d402d0a9.js.map"
+    ],
+    "path---what-is-quix": [
+      "path---what-is-quix-374cca719df7e4ffbb0a.js",
+      "path---what-is-quix-374cca719df7e4ffbb0a.js.map"
+    ],
+    "path---quix-for-your-role": [
+      "path---quix-for-your-role-284c7d783571182df1ab.js",
+      "path---quix-for-your-role-284c7d783571182df1ab.js.map"
+    ],
+    "app": [
+      "app-ed09b80cd6d39e7978c4.js",
+      "build-js-styles.css",
+      "app-ed09b80cd6d39e7978c4.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---schedule-your-report-updates": [
+      "path---schedule-your-report-updates-5e1630f39f5f40014287.js",
+      "path---schedule-your-report-updates-5e1630f39f5f40014287.js.map"
+    ],
+    "path---step-5-of-post-install-configuration": [
+      "path---step-5-of-post-install-configuration-362c1db2c23c59db4314.js",
+      "path---step-5-of-post-install-configuration-362c1db2c23c59db4314.js.map"
+    ],
+    "path---about": [
+      "path---about-a0e39f21c11f6a62c5ab.js",
+      "path---about-a0e39f21c11f6a62c5ab.js.map"
+    ]
+  }
+}

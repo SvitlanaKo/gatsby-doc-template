@@ -30,7 +30,7 @@ class Index extends React.Component {
             </Hero>
           </IndexHeadContainer>
           <BodyContainer>
-            <ReactPlayer url='https://youtu.be/Jx7L_2VkfR4' playing />
+            <ReactPlayer  url='https://youtu.be/Jx7L_2VkfR4' playing />
             
             <div className="grid-container" id="features">
               <div class="grid-item-1">

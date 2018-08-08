@@ -1,12 +1,12 @@
 module.exports = {
   blogPostDir: "posts", // The name of directory that contains your posts.
   lessonsDir: "lessons", // The name of the directory that contains lessons or docs.
-  siteTitle: "Quix", // Site title.
-  siteTitleAlt: "Quix for interactive multi-source data analytics.", // Alternative site title for SEO.
+  siteTitle: "WixQuix", // Site title.
+  siteTitleAlt: "Quix for interactive multi-source data analytics. Build BI queries of multi-sourced data via wizard or raw code. Organize and share your sql and python BI queries. Share and embed BI data.", // Alternative site title for SEO.
   siteLogo: "https://svitlanako.github.io/gatsby-doc-template/logos/wix_logo.png", // Logo used for SEO and manifest.
   siteUrl: "https://quix.com", // Domain of your website without pathPrefix.
   pathPrefix: "/gatsby-doc-template", // Prefixes all links. For cases when deployed to example.github.io/gatsby-advanced-starter/.
-  siteDescription: "Design and embed interactive multi-source data analytics.", // Website description used for RSS feeds/meta description tag.
+  siteDescription: "Design and embed interactive multi-source data analytics. Build BI queries of multi-sourced data via wizard or raw code. Organize and share your sql and python BI queries. Share and embed BI data.", // Website description used for RSS feeds/meta description tag.
   siteRss: "/rss.xml", // Path to the RSS file.
   siteFBAppID: "1825356251115265", // FB Application ID for using app insights
   googleAnalyticsID: "UA-82450300-1 ", // GA tracking ID.
