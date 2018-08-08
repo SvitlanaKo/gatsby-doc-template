@@ -236,17 +236,16 @@
               "entry": "./lesson_one.md"
             }
           ]
-        }
-      ]
-    },
-    {
-      "title": "Contribute",
-      "entries": [
+        },
         {
-          "entry": "./lesson_six.md"
+          "title": "Contribute",
+          "entries": [
+            {
+              "entry": "./lesson_six.md"
+            }
+          ]
         }
       ]
-      
     }
   ]
 }
