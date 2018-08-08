@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { Component } from 'react'
 import Helmet from 'react-helmet'
 import styled from 'styled-components'
 
@@ -7,6 +7,7 @@ import config from '../../data/SiteConfig'
 import CtaButton from '../components/CtaButton'
 import InverseCtaButton from '../components/inverseCtaButton'
 import Navigation from '../components/Layout/Navigation'
+import ReactPlayer from 'react-player'
 
 class Index extends React.Component {
   render() {
@@ -29,6 +30,8 @@ class Index extends React.Component {
             </Hero>
           </IndexHeadContainer>
           <BodyContainer>
+            <ReactPlayer url='https://youtu.be/Jx7L_2VkfR4' playing />
+            
             <div className="grid-container" id="features">
               <div class="grid-item-1">
               <h3>Share queries</h3>
